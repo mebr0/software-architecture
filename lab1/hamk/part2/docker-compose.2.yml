@@ -1,0 +1,5 @@
+services:
+  web:
+    image: devopsdockeruh/ports_exercise
+    ports:
+      - "81:80"
